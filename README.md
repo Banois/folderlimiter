@@ -65,3 +65,5 @@ It is designed for:
 | `2tb`  | 2 TB         |
 
 If you do not specify a unit, **GB is assumed**.
+
+**DESIGNED FOR WINDOWS. MAY BE BUGGY ON OTHER OPERATING SYSTEMS**
